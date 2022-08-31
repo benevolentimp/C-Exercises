@@ -35,6 +35,8 @@
 *.i*86
 *.x86_64
 *.hex
+  # Mentioning Individually each Linux-executable:
+  /HelloWorld/HelloWorld
 
 # Debug files
 *.dSYM/
